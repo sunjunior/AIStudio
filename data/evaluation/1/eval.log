@@ -1,0 +1,7 @@
+[evaluate] ERROR: No module named 'torch'
+Traceback (most recent call last):
+  File "/Users/sunjunior/Documents/Projects/AIStudio/backend/scripts/evaluate.py", line 33, in main
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[evaluate] Starting evaluation...
+  Model: /tmp/test, Type: perplexity

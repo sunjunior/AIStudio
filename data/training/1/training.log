@@ -1,0 +1,9 @@
+[train_lora] ERROR: No module named 'torch'
+Traceback (most recent call last):
+  File "/Users/sunjunior/Documents/Projects/AIStudio/backend/scripts/train_lora.py", line 41, in main
+    import torch
+ModuleNotFoundError: No module named 'torch'
+[train_lora] Starting training...
+  Base model: /tmp/test
+  Method: lora
+  Output: /Users/sunjunior/Documents/Projects/AIStudio/data/models/test-lora

@@ -1,0 +1,14 @@
+{
+  "task_id": 1,
+  "base_model": "/tmp/test",
+  "method": "lora",
+  "output_name": "test-lora",
+  "dataset_path": "",
+  "learning_rate": 0.0002,
+  "num_epochs": 1,
+  "batch_size": 2,
+  "lora_r": 8,
+  "lora_alpha": 32,
+  "max_length": 256,
+  "output_dir": "/Users/sunjunior/Documents/Projects/AIStudio/data/models/test-lora"
+}

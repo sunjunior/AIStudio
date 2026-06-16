@@ -1,0 +1,7 @@
+{
+  "record_id": 1,
+  "model_path": "/tmp/test",
+  "model_type": "llm",
+  "eval_type": "perplexity",
+  "dataset": ""
+}
