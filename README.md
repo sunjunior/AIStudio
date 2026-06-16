@@ -2,6 +2,7 @@
 
 > 本地运行的 AI 模型生命周期管理平台，支持 LLM 和 Embedding 模型的导入、微调（LoRA/QLoRA）、评估和发布。
 
+
 ## 目录
 
 - [功能概览](#功能概览)
@@ -117,6 +118,8 @@ cd AIStudio && python3 -m uvicorn backend.main:app --host 127.0.0.1 --port 8000 
 # 终端 2 - 前端
 cd AIStudio/frontend && npm run dev
 ```
+
+!["主界面截图"](menu.png)
 
 ## 使用指南
 
